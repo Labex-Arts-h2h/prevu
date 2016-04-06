@@ -31,6 +31,6 @@ Running `grunt test` will run the unit tests with karma.
 
 
 ## Crédits
-Mehdi Bourgeois, Gaétan Darquié, Zouba Ouerdia
+[Mehdi Bourgeois](http://mehdi.site), Gaétan Darquié, Zouba Ouerdia
 
 Ce projet est soutenu par le [Labex Arts-H2H](http://www.labex-arts-h2h.fr/) et la bibliothèque universitaire de Paris 8 et bénéficie d’une aide de l’ANR au titre du programme Investissements d’avenir (ANR-10-LABX-80-01).
